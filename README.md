@@ -1,6 +1,6 @@
 ﻿# 🐍 Exercícios em Python
 
-Coleção de exercícios práticos e algoritmos desenvolvidos em **Python 3**.
+Coleção de exercícios práticos e algoritmos desenvolvidos em **Python**.
 
 ## 📂 Arquivos Inclusos
 
